@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/renusing/MyContosoAirProject/_apis/build/status/Renukasingh23.ContosoAir%20(1)?branchName=master)](https://dev.azure.com/renusing/MyContosoAirProject/_build/latest?definitionId=7&branchName=master)
 
 
 # Microsoft.Github CI Demo
